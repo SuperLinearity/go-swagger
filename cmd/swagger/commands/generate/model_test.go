@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/go-swagger/go-swagger/cmd/swagger/commands/generate"
 	flags "github.com/jessevdk/go-flags"
+	"github.com/mgechev/go-swagger/cmd/swagger/commands/generate"
 )
 
 func TestGenerateModel(t *testing.T) {

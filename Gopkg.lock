@@ -124,9 +124,7 @@
 [[projects]]
   name = "github.com/go-swagger/go-swagger"
   packages = [
-    "cmd/swagger/commands",
     "cmd/swagger/commands/generate",
-    "cmd/swagger/commands/initcmd",
     "examples/2.0/petstore/server/api",
     "examples/authentication/client/customers",
     "examples/authentication/models",
@@ -438,6 +436,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "133117100d19b20f082bef9eba0bef296044ded28188c68a5de57ac1d7640060"
+  inputs-digest = "669c43b5bc5af146650482dec274dc170568c809ae96c4e47d78e78103539bf8"
   solver-name = "gps-cdcl"
   solver-version = 1
