@@ -20,7 +20,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/mgechev/go-swagger/generator"
+	"github.com/SuperLinearity/go-swagger/generator"
 )
 
 // Operation the generate operation files command

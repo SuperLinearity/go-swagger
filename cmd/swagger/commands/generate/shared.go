@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 
 	flags "github.com/jessevdk/go-flags"
-	"github.com/mgechev/go-swagger/generator"
+	"github.com/SuperLinearity/go-swagger/generator"
 	"github.com/spf13/viper"
 )
 

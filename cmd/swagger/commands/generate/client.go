@@ -20,7 +20,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/mgechev/go-swagger/generator"
+	"github.com/SuperLinearity/go-swagger/generator"
 )
 
 // Client the command to generate a swagger client

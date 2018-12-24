@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	flags "github.com/jessevdk/go-flags"
-	"github.com/mgechev/go-swagger/cmd/swagger/commands/generate"
+	"github.com/SuperLinearity/go-swagger/cmd/swagger/commands/generate"
 )
 
 func TestGenerateModel(t *testing.T) {

@@ -23,7 +23,7 @@ import (
 	"github.com/go-openapi/loads"
 	"github.com/go-openapi/spec"
 	"github.com/jessevdk/go-flags"
-	"github.com/mgechev/go-swagger/scan"
+	"github.com/SuperLinearity/go-swagger/scan"
 )
 
 // SpecFile command to generate a swagger spec from a go application

@@ -19,7 +19,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/mgechev/go-swagger/generator"
+	"github.com/SuperLinearity/go-swagger/generator"
 )
 
 // Support generates the supporting files

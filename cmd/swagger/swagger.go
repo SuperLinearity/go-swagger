@@ -21,7 +21,7 @@ import (
 	"github.com/go-openapi/loads"
 	"github.com/go-openapi/loads/fmts"
 	"github.com/jessevdk/go-flags"
-	"github.com/mgechev/go-swagger/cmd/swagger/commands"
+	"github.com/SuperLinearity/go-swagger/cmd/swagger/commands"
 )
 
 func init() {

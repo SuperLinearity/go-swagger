@@ -14,7 +14,7 @@
 
 package commands
 
-import "github.com/mgechev/go-swagger/cmd/swagger/commands/generate"
+import "github.com/SuperLinearity/go-swagger/cmd/swagger/commands/generate"
 
 // Generate command to group all generator commands together
 type Generate struct {

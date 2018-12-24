@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/mgechev/go-swagger/generator"
+	"github.com/SuperLinearity/go-swagger/generator"
 )
 
 // Server the command to generate an entire server application
